@@ -1,0 +1,9 @@
+.navMain{
+   background-color: rgb(244, 212, 212);
+}
+
+.nav-logo{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
